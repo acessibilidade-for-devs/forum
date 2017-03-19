@@ -1,2 +1,3 @@
-# forum
-Gostaria de trocar uma ideia sobre acessibilidade e seus desafios no dia-a-dia de desenvolvimento? Este é o lugar
+# Fórum
+
+E ai galera, gostaria de trocar uma ideia sobre acessibilidade. Abra uma issue e faça sua pergunta. Lembre-se: este local é da comunidade para a comunidade.
